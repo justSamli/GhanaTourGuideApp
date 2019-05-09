@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">GhanaTouristApp</string>
+    <string name="hotels_tab">Hotels</string>
+    <string name="restaurants_tab">Restaurants</string>
+    <string name="shopping_tab">Shopping</string>
+    <string name="sightseeing_tab">Sightseeing</string>
+    <string name="explore">Explore Ghana</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_introduction">This is a simple app to show you interesting locations to visit in Ghana</string>
+    <string name="places_to_visit">Places To Visit</string>
+    <string name="goldenTulip">GOLDEN TULIP</string>
+    <string name="tulipDescription">A 5-star hotel located in the heart of Accra,
+        ready to accommodate you with the best service</string>
+    <string name="tulipAddress">Liberation Road, Airport - Accra</string>
+    <string name="tulipContact">+233 30 221 3161</string>
+    <string name="zaina">ZAINA LODGE</string>
+    <string name="zainaDescription">Infinity pool at your disposal in this suburban paradise in the middle of the jungle</string>
+    <string name="zainaAddress">1 Yagbon Loop, Mole National Park - Tamale</string>
+    <string name="zainaContact">+233 54 011 5411</string>
+    <string name="kumasiTulip">GOLDEN TULIP KUMASI CITY</string>
+    <string name="kumasi_tulipDescription">4-star luxury hotel located in the green city of Ghana</string>
+    <string name="kumasi_tulipAddress">City - Rain Tree Street, Lesley Opoku-Ware Drive, Kumasi</string>
+    <string name="kumasi_tulipContact">+233 32 208 3777</string>
+    <string name="accra_mall">ACCRA MALL</string>
+    <string name="aMall_description">Large shopping centre with a variety of shops and brands to satisfy most customers</string>
+    <string name="aMall_address">Spintex Road adjacent to Tema Motorway</string>
+    <string name="aMall_contact">www.accramall.com</string>
+    <string name="kumasi_mall">KUMASI CITY MALL</string>
+    <string name="kMall_description">New mall located in Kumasi to serve customers who love variety in one place</string>
+    <string name="kMall_address">Kumasi Lake Road - Asokwa</string>
+    <string name="kMall_contact">www.kumasicitymall.com</string>
+    <string name="azmera">AZMERA RESTAURANT</string>
+    <string name="azmera_description">Heavenly atmosphere with delicious local cuisine</string>
+    <string name="azmera_address">9 Sir. Arku Korsah Rd, Accra</string>
+    <string name="azmera_contact">+233 30 277 0606</string>
+    <string name="ikecafe">IKE\'S CAFE AND GRILL</string>
+    <string name="ikecafe_description">Local dishes served in the authentic Ghanaian city of Kumasi</string>
+    <string name="ikecafe_address">ikescafegrill.com</string>
+    <string name="ikecafe_contact">+233 50 311 3110</string>
+    <string name="mole">MOLE NATIONAL PARK</string>
+    <string name="moleDescription">Ghana\'s largest wildlife refuge established in 1958 and located in Tamale also has a motel in the middle of the park to receive its overnight visitors.
+    Meet a wide range of wild forest animals like elephants, antelopes, deer, lions and wild monkeys.</string>
+    <string name="moleAddress">molemotelgh.com</string>
+    <string name="moleContact">+233 24 431 6777</string>
+    <string name="capecoastcastle">CAPE COAST CASTLE</string>
+    <string name="capecoast_Description">This was one of three castles built in the Gold Coast during the days of slave trade.
+    Take an emotional tour of the dungeons and imagine the suffering of our people who were sold into slavery.</string>
+    <string name="capecoast_Address">Victoria Rd, Cape Coast</string>
+    <string name="capecoast_Contact">+233 24 488 8020</string>
+    <string name="elminacastle">ELMINA CASTLE</string>
+    <string name="elminaDescription">The oldest and first slave trade post built in the Gold Coast in 1482 by the Portuguese. It is also the oldest European
+        building in existence south of the Sahara. Close to Cape Coast and sure to get you teary-eyed as well after visiting the dungeons. </string>
+    <string name="elminaAddress">Elmina, near Cape Coast</string>
+    <string name="elminaContact">+233 24 488 8020</string>
+
+</resources>
